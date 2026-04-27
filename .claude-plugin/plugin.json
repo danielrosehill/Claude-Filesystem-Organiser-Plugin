@@ -1,7 +1,7 @@
 {
   "name": "filesystem-organiser",
-  "version": "1.0.0",
-  "description": "Filesystem organisation primitives for local directories and cloud storage (Google Drive via rclone). Ships scan, cleanup, dedupe, rename, and sort commands plus a provisioning skill for a fresh organiser workspace.",
+  "version": "1.1.0",
+  "description": "Filesystem organisation primitives for local directories, mounted Google Drive (rclone), and Android (ADB). Ships scan, cleanup, dedupe, rename, and sort commands plus the organise-filesystem skill with composable modes (cleanup, by-date, by-category, by-media-type, video, image, audio).",
   "author": {
     "name": "Daniel Rosehill",
     "url": "https://github.com/danielrosehill"
