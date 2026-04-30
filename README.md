@@ -38,6 +38,11 @@ Part of the [danielrosehill Claude Code marketplace](https://github.com/danielro
 
 Scaffolds a new workspace (CLAUDE.md + context/logs/notes structure), personalises it from `~/.claude/CLAUDE.md`, and (by default) creates a public GitHub repo for it.
 
+### Organisation skills
+
+- `organise-filesystem` — modular target+mode flow. Pick a target (local / gdrive / android) and one or more modes (`cleanup`, `by-date`, `by-category`, `by-media-type`, `video`, `image`, `audio`). Best when intent is specific.
+- `super-organise` — comprehensive single-pass reorganisation. Detects the dominant domain pattern (image gallery, mixed media, code repo, document collection, downloads) and applies the full deterministic ruleset. Best for chaotic dumps where the user wants the works.
+
 ## Pattern
 
 Primitives live in the plugin → globally available from any cwd.
