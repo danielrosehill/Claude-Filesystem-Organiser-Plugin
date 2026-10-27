@@ -1,5 +1,7 @@
 # filesystem-organiser-plugin
 
+> **Superseded (2026-10-27).** The author now uses a successor plugin, `folder-cleanup` (private), which keeps organising preferences in one shared store read at run time instead of copying rules into each skill. This plugin still works and stays listed, but is no longer developed.
+
 Claude Code plugin for organising filesystem content — local directories and cloud storage (Google Drive via rclone). Ships scan, dedupe, sort, cleanup, and rename primitives plus a provisioning skill to spin up a fresh organiser workspace.
 
 Part of the [danielrosehill Claude Code marketplace](https://github.com/danielrosehill/Claude-Code-Plugins).
