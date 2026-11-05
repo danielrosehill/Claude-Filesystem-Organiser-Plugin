@@ -72,3 +72,7 @@ Via the danielrosehill marketplace:
 ## License
 
 MIT.
+
+## Folded in
+
+- `filesystem-organisation` (repo `filesystem-org-plugin`), retired 2026-11-05. Its commands are archived unchanged in `earlier/filesystem-org-plugin/` and are not loaded.
